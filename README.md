@@ -10,7 +10,7 @@ Fonts used:
 "[Event Region Championship]" - New Hero ExtraBold
 "[Year]" - Microgramma Extd D Bold
 
-Banners made for 920 * 1506 mm banners.
+Banners made for 926 * 1506 mm banners.
 
-Thanks
-PlumpoChicken56, Team 78116A
+
+Oscar, Team 78116A
