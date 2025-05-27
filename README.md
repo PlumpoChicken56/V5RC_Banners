@@ -1,7 +1,7 @@
 # V5RC_Banners
 Banner designs for Vex V5 Robotics Competition awards.
 
-Designs made for the UK. The background map can be swapped using Adobe Illustrator and using the .ai files.
+The background map can be swapped using Adobe Illustrator and using the .ai files.
 Fonts used:
 
 "PRESENTED BY" -  New Hero UltraLight
@@ -12,5 +12,4 @@ Fonts used:
 
 Banners made for 926 * 1506 mm banners.
 
-
-Oscar, Team 78116A
+Team 78116A
